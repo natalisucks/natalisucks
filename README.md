@@ -10,7 +10,7 @@
              ░       ░  ░               ░  ░    ░  ░ ░        ░     ░     ░ ░      ░  ░         ░  
                                                                       ░                        
 
-Hey, I'm Natali 💀
+## I'm Natali 💀
 
 I lead Wayfair's Open Source Program Office, evangelising open practices for software development. I'm also hell-bent on improving performance management practices across engineering organisations. This means I'm rather opinionated about the technical career track, manager accountability, and documentation.
 <!--
