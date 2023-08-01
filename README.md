@@ -12,11 +12,9 @@
 
 ## /user natalisucks has entered the chat 💀
 
-I'm Natali, and I'm the SIG Docs Co-Chair for the <a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener">Kubernetes</a> project. I'm also hell-bent on improving performance management practices across engineering organisations. This means I'm rather opinionated about the technical career track, manager accountability, and improving documentation.
+I'm Natali, and I'm an Open Source Technical Leader at Cisco, as well as the SIG Docs Co-Chair for the <a href="https://kubernetes.io/" target="_blank" rel="noreferrer noopener">Kubernetes</a> project.
 
-My academic background is in Egyptology and Archaeology; specifically, burial customs across the various kingdoms of Ancient Egypt. Basically, I like dead stuff. History and context are fundamental to my learning and leadership style, which means I ask a lot of questions before I commit to churn or change. Apparently, this can come off as rather annoying.
-
-My love of the dead and the documented converged at <b>Write The Docs Prague 2020</b> with my talk on <i>Documenting the (Ancient) History of Your Project</i>, available on YouTube at the official <a href="https://www.youtube.com/watch?v=YxNx9Fi40-Y&list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x&index=5" target="_blank" rel="noreferrer noopener">Write The Docs channel</a>.
+My academic background is in Egyptology and Archaeology; I like dead stuff. My love of the dead and the documented converged at <b>Write The Docs Prague 2020</b> with my talk on <i>Documenting the (Ancient) History of Your Project</i>, available on YouTube at the official <a href="https://www.youtube.com/watch?v=YxNx9Fi40-Y&list=PLZAeFn6dfHpmRWZJaUwQzsdagW2TtRI2x&index=5" target="_blank" rel="noreferrer noopener">Write The Docs channel</a>.
 
 Otherwise, you can find my shitposts on Twitter: <a href="https://www.twitter.com/natalisucks" target="_blank" rel="noreferrer noopener"><i>twitter.com/natalisucks<i></a>
 <!--
